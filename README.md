@@ -1,6 +1,6 @@
 ## Seja bem-vindo(a) 💜🐺🥀⭐
 Eu sou a Damares Vitória
-  - Estou estudando na [Alura](hppts://alura.com.br)
+  - Estou estudando na [Alura](hppts://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo este espaço para min ha organização e compartilhamento dos meus projetos desenvolvidos 🤎
 
